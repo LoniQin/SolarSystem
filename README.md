@@ -67,8 +67,7 @@ Planet(name: "Earth", radius: 0.7, distance: 12, color: .blue, orbitalPeriod: 12
 
 ## Videos
 
-<iframe width="560" height="315" src="solar_system_animation.mov" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
+<video width="560" height="315" src="solar_system_animation.mov" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></video>
 
 ## Contributing
 
