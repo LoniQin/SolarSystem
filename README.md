@@ -23,7 +23,7 @@ This project is a 3D Solar System simulation built using Apple's SceneKit framew
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/LoniQin/SolarSystem
-   cd solar-system-scenekit
+   cd SolarSystem
    ```
 
 2. **Open the Project**:
